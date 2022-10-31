@@ -1,4 +1,4 @@
-# <Education organization student guide>
+# student guidance
 
 ## Description
 I would like to develop a webpage can assist student navigating their study journey, make it easier for them to find the right team for the service they need, and also make student services (ie. letter issuing) and academic services (ie. check current study status) easier.
